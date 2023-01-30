@@ -5,4 +5,4 @@ This repository contains the code for a blockchain ledger application built usin
 Below is a screenshot of first, the Streamlit app with numerous transactions that I have added - I tested the validity of the blockchain which returned a value of 'True'. The second screenshot shows an expanded view of the ledger, displaying the hash values, timestamp and nonce values. 
 
 ![Validated](Images/validated.PNG)
-![Ledger](images/ledger.PNG)
+![Ledger](Images/ledger.PNG)
